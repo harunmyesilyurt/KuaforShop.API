@@ -1,0 +1,6 @@
+@KuaforShop.API_HostAddress = http://localhost:5059
+
+GET {{KuaforShop.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
